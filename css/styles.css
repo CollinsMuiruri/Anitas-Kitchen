@@ -1,5 +1,5 @@
 .jumbotron {
-  font-style: : san-serif;
+  font-family: fantasy;
  text-align: center;
  background-image: url(../images/backgrounds/landing.jpg);
  color: white;
@@ -22,11 +22,14 @@
   width: 30px;
 }
 .two {
-  width: 30px;
+  width: 20px;
 }
 .three {
   width: 30px;
 }
 .nav:hover div{
   width: 30px;
+}
+.second {
+
 }
