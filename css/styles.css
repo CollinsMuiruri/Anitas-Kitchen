@@ -33,3 +33,29 @@
 .second {
 
 }
+.third {
+  background-color: white;
+  background-position: left;
+  float: left;
+}
+.p {
+  float: right;
+}
+#fastfood {
+  margin: 2%;
+  float: left;
+  padding: 2em;
+  box-shadow: 0 0 4px 4px #ccc;
+}
+.page1 {
+  float: right;
+}
+#thedrinks {
+  margin: 2%;
+  float: right;
+  padding: 2em;
+  box-shadow: 0 0 4px 4px #ccc;
+}
+.drinktext {
+  float: left;
+}
